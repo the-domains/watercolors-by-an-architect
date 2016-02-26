@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5430108
 color:
   saturation: 0.9750598
   brandStrength: 0.8028674
-  lightness: 0.5913978
+  rhythmicContrast: 0.4767025
   brandColors:
     - '#020101'
     - '#D1D6BD'
     - '#89916E'
     - '#BD7802'
     - '#019142'
-  rhythmicContrast: 0.4767025
-typography_spectrum: 0.5430108
+  lightness: 0.5913978
+layout_spectrum: 0
 name: Watercolors by an Architect
