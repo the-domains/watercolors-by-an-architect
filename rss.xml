@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Watercolors by an Architect]]></title>
         <description><![CDATA[Watercolors by an Architect]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/watercolors-by-an-architect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 21:44:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 22:05:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/watercolors-by-an-architect/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dreams Series N.01 Time passes, I dissolve with it...]]></title>
-            <description><![CDATA[<article><h1>Dreams Series N.01 Time passes, I dissolve with it...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea5a5b2e-833d-4a9a-ba12-9456c9b6e860.png"></article>]]></description>
-            <link>undefineddreams-series-n01-time-passes-i-dissolve-with-it/index.html</link>
+            <description><![CDATA[<article><h1>Dreams Series N.01 Time passes, I dissolve with it...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e930ecd7e24ca6c1085068b7216460cf571486.png"></article>]]></description>
+            <link>https://thegrid.ai/watercolors-by-an-architect/dreams-series-n01-time-passes-i-dissolve-with-it/index.html</link>
             <guid isPermaLink="false">d3624c46-a4a9-4395-8435-1b02a44b9a2a</guid>
             <pubDate>Fri, 26 Feb 2016 21:42:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swimming in a World of Colors]]></title>
+            <description><![CDATA[<article><h1>Swimming in a World of Colors</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fdfd7a9-8cd8-43b1-b0ed-cf6951791fb5.png"></article>]]></description>
+            <link>https://thegrid.ai/watercolors-by-an-architect/swimming-in-a-world-of-colors/index.html</link>
+            <guid isPermaLink="false">60a4f1bf-7b32-406f-a262-c3337fc9d58d</guid>
+            <pubDate>Fri, 26 Feb 2016 22:03:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
