@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Watercolors by an Architect]]></title>
+        <description><![CDATA[Watercolors by an Architect]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 21:44:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dreams Series N.01 Time passes, I dissolve with it...]]></title>
+            <description><![CDATA[<article><h1>Dreams Series N.01 Time passes, I dissolve with it...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea5a5b2e-833d-4a9a-ba12-9456c9b6e860.png"></article>]]></description>
+            <link>undefineddreams-series-n01-time-passes-i-dissolve-with-it/index.html</link>
+            <guid isPermaLink="false">d3624c46-a4a9-4395-8435-1b02a44b9a2a</guid>
+            <pubDate>Fri, 26 Feb 2016 21:42:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
