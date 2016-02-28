@@ -10,11 +10,10 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5430108
 color:
   saturation: 1
   brandStrength: 0.6779448
-  lightness: 0
+  lightness: 0.5004664
   brandColors:
     - '#040305'
     - '#A1A2A5'
@@ -22,5 +21,6 @@ color:
     - '#CEA54A'
     - '#C71737'
   rhythmicContrast: 1
+typography_spectrum: 0.5430108
 layout_spectrum: 0.7028918
 name: Watercolors by an Architect
